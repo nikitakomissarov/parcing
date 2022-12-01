@@ -47,7 +47,7 @@ def parcing(tags):
         
 parcing(tags)
 
-my_wb.save (r"C:\Users\Никита\Desktop\Book5.xlsx")
+my_wb.save (r"C:\Users\big shot\Documents\GitHub\parcing\2.xlsx")
 
 v.close()
 f.close()

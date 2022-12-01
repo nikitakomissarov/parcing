@@ -10,7 +10,7 @@ def exporting(address, street):
     c2 = my_sheet.cell(row = int(count), column = 2)
     c2.value = street
     count += 1
-    my_wb.save (r"C:\Users\Никита\Desktop\Book5.xlsx")
+    my_wb.save (r"C:\Users\big shot\Documents\GitHub\parcing\2.xlsx")
 
 address, street = "lola", "kok"
 
